@@ -12,7 +12,7 @@ else
 }
 */
 
-
+/*
 Console.Write("input num1: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("input num2: ");
@@ -27,4 +27,15 @@ if (num2 > max) max = num2;
 if (num3 > max) max = num3;
 
 Console.Write("max = ");
-Console.WriteLine(max);
+Console.WriteLine(max); */
+
+
+/*Console.Write("input num: ");
+int num = Convert.ToInt32(Console.ReadLine());
+
+if (num % 2 == 0)
+{
+Console.WriteLine("Del");
+}
+else
+Console.WriteLine("NoDel");*/
